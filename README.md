@@ -4,7 +4,8 @@ Colons can be used to align columns.
 
 | Colors        | 
 | ------------- |
-|  <img width="1371" alt="image" src="https://github.com/sang200515/SColorKit/assets/75377272/72dedc2f-b49a-4532-a8a8-93b85a92956b">
+| <img width="1171" alt="image" src="https://github.com/sang200515/SColorKit/assets/75377272/458de3a7-ecea-4128-a93b-42d17714c2b7">
+
 
 
 
